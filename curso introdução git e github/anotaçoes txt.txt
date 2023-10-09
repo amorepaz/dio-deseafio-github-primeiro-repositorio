@@ -1,0 +1,29 @@
+  
+
+   *COMANDOS DO CURSO GIT E GITHUB INTRODUÇÃO 
+
+   1 git clone url clona repositorio
+   2 git commit -m "" ultilizar o comando 
+   3 git pull puxa as alterações do repositorio remoto para o local 
+   4 git push empurra as alterações do repositorio local para o remoto 
+   
+
+       *CONFIGURANDO GIT 
+      
+   1 git config init . defaultbranch
+   2 git config --global init .defaultbranch main 
+   3 git config --global --list vai mostra o global system e worktree
+   
+         *AUTENTICANDO VIA TOKEM 
+
+   1 git config credential .helper story = permanete credential ou cacher temporal 
+   2 git config --global credential .helper = valor que tinha colocado antes 
+   3 git config credential helper = story resultado da credencial 
+   4 git . config --global --show-origin credential .helper = qual local do computador o git amarzena 
+
+           *AUTENTIFICAÇÃO VIA SSH 
+
+   1 ls = para listar os arquivos -a = para que ele exiba todos os arquivos -/ .ssh = endereço do diretory 
+   1 ls -a  -/.ssh
+   2 
+    
