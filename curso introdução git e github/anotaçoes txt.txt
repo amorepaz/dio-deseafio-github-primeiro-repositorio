@@ -33,10 +33,11 @@
    3 cd = diretory (cd ~/.ssh ) 
    
 
+     ## links 
 
-       1- dio-curso -git/github feito por elidiana todos os materias estao aqui link https://github.com/elidianaandrade
+       - [dio-curso -git/github feito por elidiana todos os materias estao aqui link] (https://github.com/elidianaandrade)
 
-     2- link da documentação do git https://git-scm.com/doc     
+     - [link da documentação do git] (https://git-scm.com/doc)     
               
-    3- link da documentação do github https://docs.github.com/pt   
+    - [link da documentação do github] (https://docs.github.com/pt)   
     
