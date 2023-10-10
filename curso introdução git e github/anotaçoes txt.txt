@@ -13,17 +13,30 @@
    1 git config init . defaultbranch
    2 git config --global init .defaultbranch main 
    3 git config --global --list vai mostra o global system e worktree
-   
+   4 git config --global user.name ""
+   5 git config --global user. email renda etc 
+
          *AUTENTICANDO VIA TOKEM 
 
    1 git config credential .helper story = permanete credential ou cacher temporal 
    2 git config --global credential .helper = valor que tinha colocado antes 
    3 git config credential helper = story resultado da credencial 
    4 git . config --global --show-origin credential .helper = qual local do computador o git amarzena 
-
+   5 git clone url 
+   6 cat .gitconfig = abri a pasta no terminal 
+   
            *AUTENTIFICAÇÃO VIA SSH 
 
    1 ls = para listar os arquivos -a = para que ele exiba todos os arquivos -/ .ssh = endereço do diretory 
-   1 ls -a  -/.ssh
-   2 
+      1 ls -a  -/.ssh
+   2  ssh-keygem -t .ed25519 -c depois endereço de email = gera uma nova chave 
+   3 cd = diretory (cd ~/.ssh ) 
+   
+
+
+       1- dio-curso -git/github feito por elidiana todos os materias estao aqui link https://github.com/elidianaandrade
+
+     2- link da documentação do git https://git-scm.com/doc     
+              
+    3- link da documentação do github https://docs.github.com/pt   
     
